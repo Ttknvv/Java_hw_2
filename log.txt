@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-12T06:33:16.471378Z</date>
+  <millis>1670826796471</millis>
+  <nanos>378000</nanos>
+  <sequence>0</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 2, 3, 3, 1, 3, 3, 2]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.507454Z</date>
+  <millis>1670826796507</millis>
+  <nanos>454000</nanos>
+  <sequence>1</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 2, 3, 3, 1, 3, 3, 2]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.508285Z</date>
+  <millis>1670826796508</millis>
+  <nanos>285000</nanos>
+  <sequence>2</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 3, 2, 3, 1, 3, 3, 2]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.508578Z</date>
+  <millis>1670826796508</millis>
+  <nanos>578000</nanos>
+  <sequence>3</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 3, 3, 2, 1, 3, 3, 2]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.508895Z</date>
+  <millis>1670826796508</millis>
+  <nanos>895000</nanos>
+  <sequence>4</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 3, 3, 2, 1, 3, 3, 2]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.509157Z</date>
+  <millis>1670826796509</millis>
+  <nanos>157000</nanos>
+  <sequence>5</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 3, 3, 2, 3, 1, 3, 2]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.509430Z</date>
+  <millis>1670826796509</millis>
+  <nanos>430000</nanos>
+  <sequence>6</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 3, 3, 2, 3, 3, 1, 2]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.509685Z</date>
+  <millis>1670826796509</millis>
+  <nanos>685000</nanos>
+  <sequence>7</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 3, 3, 2, 3, 3, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.509942Z</date>
+  <millis>1670826796509</millis>
+  <nanos>942000</nanos>
+  <sequence>8</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 3, 3, 2, 3, 3, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.510286Z</date>
+  <millis>1670826796510</millis>
+  <nanos>286000</nanos>
+  <sequence>9</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 2, 3, 2, 3, 3, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.510514Z</date>
+  <millis>1670826796510</millis>
+  <nanos>514000</nanos>
+  <sequence>10</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 2, 3, 3, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.510748Z</date>
+  <millis>1670826796510</millis>
+  <nanos>748000</nanos>
+  <sequence>11</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 2, 3, 3, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.510975Z</date>
+  <millis>1670826796510</millis>
+  <nanos>975000</nanos>
+  <sequence>12</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 3, 2, 3, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.511193Z</date>
+  <millis>1670826796511</millis>
+  <nanos>193000</nanos>
+  <sequence>13</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 3, 3, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.511405Z</date>
+  <millis>1670826796511</millis>
+  <nanos>405000</nanos>
+  <sequence>14</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 3, 3, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.511622Z</date>
+  <millis>1670826796511</millis>
+  <nanos>622000</nanos>
+  <sequence>15</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 3, 3, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.511878Z</date>
+  <millis>1670826796511</millis>
+  <nanos>878000</nanos>
+  <sequence>16</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 3, 3, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.512098Z</date>
+  <millis>1670826796512</millis>
+  <nanos>98000</nanos>
+  <sequence>17</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 3, 3, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.512307Z</date>
+  <millis>1670826796512</millis>
+  <nanos>307000</nanos>
+  <sequence>18</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 2, 3, 3, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.512507Z</date>
+  <millis>1670826796512</millis>
+  <nanos>507000</nanos>
+  <sequence>19</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 2, 3, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.512708Z</date>
+  <millis>1670826796512</millis>
+  <nanos>708000</nanos>
+  <sequence>20</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.512926Z</date>
+  <millis>1670826796512</millis>
+  <nanos>926000</nanos>
+  <sequence>21</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.513163Z</date>
+  <millis>1670826796513</millis>
+  <nanos>163000</nanos>
+  <sequence>22</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.513389Z</date>
+  <millis>1670826796513</millis>
+  <nanos>389000</nanos>
+  <sequence>23</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.513727Z</date>
+  <millis>1670826796513</millis>
+  <nanos>727000</nanos>
+  <sequence>24</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.513997Z</date>
+  <millis>1670826796513</millis>
+  <nanos>997000</nanos>
+  <sequence>25</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.514200Z</date>
+  <millis>1670826796514</millis>
+  <nanos>200000</nanos>
+  <sequence>26</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.514415Z</date>
+  <millis>1670826796514</millis>
+  <nanos>415000</nanos>
+  <sequence>27</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.514613Z</date>
+  <millis>1670826796514</millis>
+  <nanos>613000</nanos>
+  <sequence>28</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.514875Z</date>
+  <millis>1670826796514</millis>
+  <nanos>875000</nanos>
+  <sequence>29</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.515071Z</date>
+  <millis>1670826796515</millis>
+  <nanos>71000</nanos>
+  <sequence>30</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+<record>
+  <date>2022-12-12T06:33:16.515251Z</date>
+  <millis>1670826796515</millis>
+  <nanos>251000</nanos>
+  <sequence>31</sequence>
+  <logger>hw2_2</logger>
+  <level>INFO</level>
+  <class>hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 3, 3, 3, 3, 2, 2, 2, 1]</message>
+</record>
+</log>
